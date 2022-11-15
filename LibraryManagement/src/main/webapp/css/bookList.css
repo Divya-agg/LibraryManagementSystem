@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+header {
+	border: 1px solid black;
+	text-align: center;
+	color: white;
+	background: #000;
+	font: bolder;
+ 	margin-right: 2px;
+ 	margin-left: 2px;
+}
+
+table{
+	width:60% ;
+	margin:auto;
+}
+
+th {
+  font-weight: bold;
+  color: black;
+  background: #e6e6e6;
+}
+
+td {
+  color: black;	
+  font-weight: normal;
+}
+
+.the-legend {
+    border-style: none;
+    border-width: 0;
+    font-size: 14px;
+    font-weight:  bold;
+    line-height: 20px;
+    margin-bottom: 0;
+    width: auto;
+    padding: 0 10px;
+    border: 1px solid black;
+}
+.the-fieldset {
+    border: 1px solid black;
+    padding: 10px;
+}

@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+header {
+	border: 1px solid black;
+	text-align: center;
+	color: white;
+	background: #000;
+	font: bolder;
+ 	margin-right: 2px;
+ 	margin-left: 2px;
+}
+
+.center_div{
+	margin-top: 10% !important;
+	margin-left: 10% !important;
+    width:60% /* value of your choice which suits your alignment */
+}
